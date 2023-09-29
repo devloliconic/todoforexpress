@@ -1,0 +1,24 @@
+.container {
+  height: 100vh;
+  background-color: rgb(124, 194, 128);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.list {
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  padding: 20px;
+  background: #a3efc7;
+
+  margin-bottom: 40px;
+}
